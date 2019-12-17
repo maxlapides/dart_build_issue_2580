@@ -1,0 +1,9 @@
+name: incremental_build_demo
+description: Incremental Build Demo
+
+dependencies:
+  built_value: ^7.0.0
+
+dev_dependencies:
+  build_runner: ^1.7.2
+  built_value_generator: ^7.0.0
